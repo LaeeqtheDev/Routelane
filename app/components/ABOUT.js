@@ -7,25 +7,25 @@ const About = () => {
       title: "Route Planning",
       description: "Truck dispatchers are responsible for planning efficient routes for trucks to ensure timely delivery of goods. They consider factors such as distance, traffic conditions, weather, and delivery schedules to optimize routes and minimize transportation costs.",
       image: "/o4.png",
-      tags: ["Tag1", "Tag2", "Tag3"]
+      tags: ["Mileage", "Petrol", "Diesel"]
     },
     {
       title: "Load Assignment",
       description: "Dispatchers assign loads to available trucks and drivers based on factors such as truck capacity, destination, and delivery deadlines. They ensure that each truck is utilized efficiently and that all loads are delivered on time.",
       image: "/load.png",
-      tags: ["Tag1", "Tag2", "Tag3"]
+      tags: ["Flatbed", "BoxTruck", "Reefer"]
     },
     {
       title: "Communication",
       description: "Dispatchers maintain constant communication with truck drivers, providing them with route updates, delivery instructions, and any other relevant information. They use communication tools such as two-way radios, GPS tracking systems, and mobile phones to stay in touch with drivers and monitor their progress.",
       image: "/headphone.png",
-      tags: ["Tag1", "Tag2", "Tag3"]
+      tags: ["24hours", "7 Days", "12 Months"]
     },
     {
       title: "Problem Solving",
       description: "Dispatchers handle various issues that may arise during transportation, such as traffic delays, mechanical breakdowns, and customer concerns. They work quickly to resolve problems, make necessary adjustments to routes or schedules, and ensure that deliveries are completed as smoothly as possible.",
       image: "/report.png",
-      tags: ["Tag1", "Tag2", "Tag3"]
+      tags: ["Quick", "Responsive", "Patient"]
     },
     // Add more data objects as needed
   ];
