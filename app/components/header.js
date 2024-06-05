@@ -14,8 +14,10 @@ const Header = () => {
           <a className="mr-5 hover:text-[#4762FF] cursor-pointer hover:underline underline-offset-4">Contact Us</a>
         </nav>
       </div>
-      <button className="hidden sm:hidden md:block bg-[#4762FF] rounded-full px-8 py-2 text-white self-start md:self-center">Truckaway</button>
-
+      <a href="tel:+13146966698" className="hidden sm:hidden md:flex items-center bg-[#4762FF] rounded-full px-8 py-2 text-white self-start md:self-center">
+        <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/ffffff/incoming-call.png" alt="incoming-call" className="mr-2"/>
+        +1 314 6966698
+      </a>
     </div>
   );
 };
