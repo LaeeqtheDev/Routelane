@@ -17,7 +17,7 @@ const Footer = () => {
           <a href="https://twitter.com/knyttneve" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@LaeeqtheDev</a>
         </p>
         <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-          <a className="text-gray-500" href="https://facebook.com/syedlaeeq.ahmed.3" target="_blank" rel="noopener noreferrer">
+          <a className="text-gray-500" href="https://facebook.com/routelanellc" target="_blank" rel="noopener noreferrer">
             <img
               src="facebook.png" 
               alt="Facebook"
@@ -25,7 +25,7 @@ const Footer = () => {
             />
           </a>
          
-          <a className="ml-3 text-gray-500" href="https://instagram.com/syedlaeeq.ahmed" target="_blank" rel="noopener noreferrer">
+          <a className="ml-3 text-gray-500" href="https://instagram.com/routelanellc" target="_blank" rel="noopener noreferrer">
             <img
               src="instagram.png" 
               alt="Instagram"
