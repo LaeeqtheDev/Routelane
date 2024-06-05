@@ -10,23 +10,25 @@ import Testimonial from "./components/Testimppnal";
 import AboutUsSection from "./components/about us";
 import Header from "./components/header"
 import Hero from "./components/hero";
+import OnboardingSection from "./components/onBoarding";
 
 
 export default function Home() {
   return (
     <main className="">
-   <Header/>
-   <Hero/>
-   <About/>
-   <Services/>
-   <AboutUsSection/>
-  
-   <Office/>
-   <TeamSection/>
-   <TruckPricing/>
-   <Testimonial/>
-   <Contact/>
-   <Footer/>
+    <Header />
+      <Hero />
+      <About />
+      <Services />
+      <AboutUsSection />
+      <TeamSection />
+      <Office />
+      
+      <OnboardingSection />
+      <TruckPricing />
+      <Testimonial />
+      <Contact />
+      <Footer />
     </main>
   );
 }
