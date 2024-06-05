@@ -29,9 +29,9 @@ export default function Home() {
       <OnboardingSection />
       <Testimonial />
       <TruckPricing />
-      <div className="flex flex-row mx-14 items-center">
-      <ProfileSection/>
-      <ProfileSection2/>
+      <div className="flex flex-col sm:flex-row mx-14 items-center">
+        <ProfileSection />
+        <ProfileSection2 />
       </div>
       <Contact />
       <Footer />
