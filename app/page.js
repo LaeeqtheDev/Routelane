@@ -4,6 +4,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Office from "./components/Office";
 import Services from "./components/Services";
+import TeamSection from "./components/Team";
 import Testimonial from "./components/Testimppnal";
 import AboutUsSection from "./components/about us";
 import Header from "./components/header"
@@ -20,6 +21,7 @@ export default function Home() {
    <AboutUsSection/>
   
    <Office/>
+   <TeamSection/>
    <Testimonial/>
    <Contact/>
    <Footer/>
