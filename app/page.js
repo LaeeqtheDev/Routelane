@@ -3,6 +3,7 @@ import About from "./components/ABOUT";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Office from "./components/Office";
+import TruckPricing from "./components/Pricing";
 import Services from "./components/Services";
 import TeamSection from "./components/Team";
 import Testimonial from "./components/Testimppnal";
@@ -22,6 +23,7 @@ export default function Home() {
   
    <Office/>
    <TeamSection/>
+   <TruckPricing/>
    <Testimonial/>
    <Contact/>
    <Footer/>
