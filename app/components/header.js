@@ -37,10 +37,11 @@ const Header = () => {
           <a className="mr-5 hover:text-[#4762FF] cursor-pointer hover:underline underline-offset-4">Services</a>
           <a className="mr-5 hover:text-[#4762FF] cursor-pointer hover:underline underline-offset-4">Contact Us</a>
         </nav>
-        <a href="tel:+13146966698" className="flex items-center justify-center bg-[#4762FF] rounded-full px-8 py-2 text-white mt-8">
+        <a href="tel:+13146966898" className="flex items-center justify-center bg-[#4762FF] rounded-full px-8 py-2 text-white mt-8">
           <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/ffffff/incoming-call.png" alt="incoming-call" className="mr-2"/>
-          +1 314 6966698
+          +1 314 696 6898
         </a>
+                  
       </div>
       <div className="container mx-auto px-5 sm:px-10 lg:px-20 xl:px-32 flex flex-wrap p-5 items-center justify-between">
         <div className="flex items-center flex-grow">
@@ -82,9 +83,9 @@ const Header = () => {
             <a className="mr-5 hover:text-[#4762FF] cursor-pointer hover:underline underline-offset-4">Services</a>
             <a className="mr-5 hover:text-[#4762FF] cursor-pointer hover:underline underline-offset-4">Contact Us</a>
           </nav>
-          <a href="tel:+13146966698" className="flex items-center bg-[#4762FF] rounded-full px-8 py-2 text-white self-start md:self-center ml-4">
+          <a href="tel:+13146966898" className="flex items-center bg-[#4762FF] rounded-full px-8 py-2 text-white self-start md:self-center ml-4">
             <img width="20" height="20" src="https://img.icons8.com/ios-filled/50/ffffff/incoming-call.png" alt="incoming-call" className="mr-2"/>
-            +1 314 6966698
+            +1 314 696 6898
           </a>
           <a href="whatsapp://send?phone=+17705892887" className="flex items-center bg-green-500 rounded-full px-8 py-2 text-black self-start md:self-center ml-4">
             <img width="20" height="20" src="https://img.icons8.com/ios/50/whatsapp--v1.png" alt="whatsapp--v1" className="mr-2"/>
